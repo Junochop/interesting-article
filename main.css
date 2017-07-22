@@ -1,15 +1,67 @@
 
 
 body {
-	background-color: lightgrey;
+	background-color: solid slategray;
 	font-family: 'Montserrat', sans-serif;
+	;
 }
 
 h1 {
 	text-align: center;
 }
 
+h2 {
+	text-align: center;
+}
+
 footer {
 	font-style: italic;
 	font-size: 11px;
+	text-align: center;
+}
+
+section {
+	font-size: 13px;
+	color:  blue;
+	line-height: 120%;
+	padding: 10px;
+
+}
+
+.article1 {
+	border-width:5px;  
+    border-style: dashed;
+    border-radius: 100%;
+    padding: 400px;
+
+}
+
+.article2 {
+	border-width:5px;  
+    border-style: dashed;
+    border-radius: 15%;
+    padding: 200px;
+}
+
+.article3 {
+	border-width:5px;  
+    border-style: solid;
+    border-radius: 5%;
+    padding: 50px;
+}
+
+.article4 {
+	border-width:5px;  
+    border-style: dashed;
+    border-radius: 10%;
+    padding: 20px;
+}
+
+
+.article5 {
+	border-width:5px;  
+    border-style: dashed;
+    padding: 30px;
+    
+    
 }
