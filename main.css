@@ -33,6 +33,7 @@ section {
     border-style: dashed;
     border-radius: 100%;
     padding: 400px;
+    background-color: lightpink;
 
 }
 
@@ -41,6 +42,7 @@ section {
     border-style: dashed;
     border-radius: 15%;
     padding: 200px;
+    background-color: grey;
 }
 
 .article3 {
@@ -48,6 +50,7 @@ section {
     border-style: solid;
     border-radius: 5%;
     padding: 50px;
+    background-color: darkgrey;
 }
 
 .article4 {
@@ -55,6 +58,7 @@ section {
     border-style: dashed;
     border-radius: 10%;
     padding: 20px;
+    background-color: lightyellow;
 }
 
 
@@ -62,6 +66,7 @@ section {
 	border-width:5px;  
     border-style: dashed;
     padding: 30px;
+    background-color: lightgreen;
     
     
 }
